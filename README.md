@@ -1,5 +1,3 @@
-# Web-Personal-BS-New
-Website Personal BS (yg bener)
 <!DOCTYPE html>
 <html lang="en">
 <head>
